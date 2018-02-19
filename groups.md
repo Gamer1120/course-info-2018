@@ -33,3 +33,4 @@
 | 31 | Joran Honig                |   | Jasper Boot           |   | j.j.f.boot@student.utwente.nl          |
 | 32 | Hugo Reinbergen            |   | Louis Sikkes          |   | louis-sikkes@live.nl                   |
 | 33 | Thomas Overklift           |   | Martijn Steenbergen   |   | martijn.steenbergen@outlook.com        |
+| 34 | Riya Maan	                |   | Cèlia Riera Brutau 	  |   |	celia.riera95@gmail.com                |
