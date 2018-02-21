@@ -34,3 +34,5 @@
 | 32 | Hugo Reinbergen            |   | Louis Sikkes          |   | louis-sikkes@live.nl                   |
 | 33 | Thomas Overklift           |   | Martijn Steenbergen   |   | martijn.steenbergen@outlook.com        |
 | 34 | Riya Maan	                |   | Cèlia Riera Brutau 	  |   |	celia.riera95@gmail.com                |
+| 35 | Michael Koopman	          |   |	Melcher Stikkelorum	  |   |	michaelkoopmantest@gmail.com           |
+| 36 |Myeongjung Park	            |   |	Philip Blankendal	    |   |	M.Park@student.tudelft.nl              |
